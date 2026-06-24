@@ -1,6 +1,11 @@
 <div align="center">
 
-![Pixel Realms Banner](./assets/pixelRealmsBanner.png)
+
+<p align="center">
+  <a href="https://hassanireza.github.io/pixelRealms/">
+    <img src="./assets/pixelRealmsBanner.png" alt="Reza Hassani Banner" width="100%" />
+  </a>
+</p>
 
 <br/>
 
